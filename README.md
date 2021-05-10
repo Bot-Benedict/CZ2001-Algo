@@ -1,6 +1,6 @@
 # CZ2001 Algorithm
 
-This repo covers the following items of CZ2001 Algorithm. This was an introductory course to Algorithms (outdated NTU syllabus as of 2021). The work done here was during the Covid-19 period and may vary with any updates to the course itself.
+This repo covers all submissions required for the module CZ2001 Algorithm. This was an introductory course to Algorithms (outdated NTU syllabus as of 2021). The work done here was during the Covid-19 period and may vary with any updates to the course itself.
 
 ## Tasks Performed
 
